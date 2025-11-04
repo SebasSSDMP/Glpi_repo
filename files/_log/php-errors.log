@@ -1,0 +1,504 @@
+[2025-10-30 13:38:45] glpiphplog.WARNING: Test logger  
+[2025-10-30 13:39:51] glpiphplog.WARNING:   *** PHP User Warning (512): You must create a security key, see security:change_key command. in /var/www/html/glpi/src/GLPIKey.php at line 129
+  Backtrace :
+  src/GLPIKey.php:129                                trigger_error()
+  src/GLPIKey.php:407                                GLPIKey->get()
+  src/GLPINetwork.php:175                            GLPIKey->decrypt()
+  src/GLPINetwork.php:194                            GLPINetwork::getRegistrationKey()
+  src/Marketplace/View.php:160                       GLPINetwork::getRegistrationInformations()
+  src/Marketplace/View.php:219                       Glpi\Marketplace\View::checkRegistrationStatus()
+  src/Marketplace/View.php:124                       Glpi\Marketplace\View::installed()
+  src/CommonGLPI.php:692                             Glpi\Marketplace\View::displayTabContentForItem()
+  ajax/common.tabs.php:120                           CommonGLPI::displayStandardTab()
+  public/index.php:82                                require()
+  
+[2025-10-30 13:39:56] glpiphplog.WARNING:   *** PHP User Warning (512): You must create a security key, see security:change_key command. in /var/www/html/glpi/src/GLPIKey.php at line 129
+  Backtrace :
+  src/GLPIKey.php:129                                trigger_error()
+  src/GLPIKey.php:407                                GLPIKey->get()
+  src/GLPINetwork.php:175                            GLPIKey->decrypt()
+  src/GLPINetwork.php:61                             GLPINetwork::getRegistrationKey()
+  src/GLPINetwork.php:50                             GLPINetwork::showForConfig()
+  src/CommonGLPI.php:692                             GLPINetwork::displayTabContentForItem()
+  ajax/common.tabs.php:120                           CommonGLPI::displayStandardTab()
+  public/index.php:82                                require()
+  
+[2025-10-30 13:39:58] glpiphplog.WARNING:   *** PHP User Warning (512): You must create a security key, see security:change_key command. in /var/www/html/glpi/src/GLPIKey.php at line 129
+  Backtrace :
+  src/GLPIKey.php:129                                trigger_error()
+  src/GLPIKey.php:407                                GLPIKey->get()
+  src/GLPINetwork.php:175                            GLPIKey->decrypt()
+  src/GLPINetwork.php:194                            GLPINetwork::getRegistrationKey()
+  src/GLPINetwork.php:102                            GLPINetwork::getRegistrationInformations()
+  src/GLPINetwork.php:50                             GLPINetwork::showForConfig()
+  src/CommonGLPI.php:692                             GLPINetwork::displayTabContentForItem()
+  ajax/common.tabs.php:120                           CommonGLPI::displayStandardTab()
+  public/index.php:82                                require()
+  
+[2025-10-30 13:40:01] glpiphplog.WARNING:   *** PHP User Warning (512): You must create a security key, see security:change_key command. in /var/www/html/glpi/src/GLPIKey.php at line 129
+  Backtrace :
+  src/GLPIKey.php:129                                trigger_error()
+  src/GLPIKey.php:372                                GLPIKey->get()
+  src/Config.php:3107                                GLPIKey->encrypt()
+  src/Config.php:354                                 Config::setConfigurationValues()
+  src/CommonDBTM.php:1616                            Config->prepareInputForUpdate()
+  front/config.form.php:68                           CommonDBTM->update()
+  public/index.php:82                                require()
+  
+[2025-10-30 13:40:06] glpiphplog.WARNING:   *** PHP User Warning (512): You must create a security key, see security:change_key command. in /var/www/html/glpi/src/GLPIKey.php at line 129
+  Backtrace :
+  src/GLPIKey.php:129                                trigger_error()
+  src/GLPIKey.php:372                                GLPIKey->get()
+  src/Config.php:3107                                GLPIKey->encrypt()
+  src/Config.php:354                                 Config::setConfigurationValues()
+  src/CommonDBTM.php:1616                            Config->prepareInputForUpdate()
+  front/config.form.php:68                           CommonDBTM->update()
+  public/index.php:82                                require()
+  
+[2025-10-30 13:40:39] glpiphplog.WARNING:   *** PHP User Warning (512): You must create a security key, see security:change_key command. in /var/www/html/glpi/src/GLPIKey.php at line 129
+  Backtrace :
+  src/GLPIKey.php:129                                trigger_error()
+  src/GLPIKey.php:372                                GLPIKey->get()
+  src/Config.php:3107                                GLPIKey->encrypt()
+  src/Config.php:354                                 Config::setConfigurationValues()
+  src/CommonDBTM.php:1616                            Config->prepareInputForUpdate()
+  front/config.form.php:68                           CommonDBTM->update()
+  public/index.php:82                                require()
+  
+[2025-10-30 13:41:28] glpiphplog.WARNING:   *** PHP User Warning (512): You must create a security key, see security:change_key command. in /var/www/html/glpi/src/GLPIKey.php at line 129
+  Backtrace :
+  src/GLPIKey.php:129                                trigger_error()
+  src/GLPIKey.php:372                                GLPIKey->get()
+  src/Config.php:3107                                GLPIKey->encrypt()
+  src/Config.php:354                                 Config::setConfigurationValues()
+  src/CommonDBTM.php:1616                            Config->prepareInputForUpdate()
+  front/config.form.php:68                           CommonDBTM->update()
+  public/index.php:82                                require()
+  
+[2025-10-30 13:42:22] glpiphplog.WARNING:   *** PHP User Warning (512): You must create a security key, see security:change_key command. in /var/www/html/glpi/src/GLPIKey.php at line 129
+  Backtrace :
+  src/GLPIKey.php:129                                trigger_error()
+  src/GLPIKey.php:372                                GLPIKey->get()
+  src/Config.php:3107                                GLPIKey->encrypt()
+  src/Config.php:354                                 Config::setConfigurationValues()
+  src/CommonDBTM.php:1616                            Config->prepareInputForUpdate()
+  front/config.form.php:68                           CommonDBTM->update()
+  public/index.php:82                                require()
+  
+[2025-10-30 13:45:29] glpiphplog.WARNING:   *** PHP User Warning (512): You must create a security key, see security:change_key command. in /var/www/html/glpi/src/GLPIKey.php at line 129
+  Backtrace :
+  src/GLPIKey.php:129                                trigger_error()
+  src/GLPIKey.php:372                                GLPIKey->get()
+  src/Config.php:3107                                GLPIKey->encrypt()
+  src/Config.php:354                                 Config::setConfigurationValues()
+  src/CommonDBTM.php:1616                            Config->prepareInputForUpdate()
+  front/config.form.php:68                           CommonDBTM->update()
+  public/index.php:82                                require()
+  
+[2025-10-30 13:46:12] glpiphplog.WARNING:   *** PHP User Warning (512): You must create a security key, see security:change_key command. in /var/www/html/glpi/src/GLPIKey.php at line 129
+  Backtrace :
+  src/GLPIKey.php:129                                trigger_error()
+  src/GLPIKey.php:372                                GLPIKey->get()
+  src/Config.php:3107                                GLPIKey->encrypt()
+  src/Config.php:354                                 Config::setConfigurationValues()
+  src/CommonDBTM.php:1616                            Config->prepareInputForUpdate()
+  front/config.form.php:68                           CommonDBTM->update()
+  public/index.php:82                                require()
+  
+[2025-10-30 14:08:15] glpiphplog.WARNING:   *** PHP User Warning (512): You must create a security key, see security:change_key command. in /var/www/html/glpi/src/GLPIKey.php at line 129
+  Backtrace :
+  src/GLPIKey.php:129                                trigger_error()
+  src/GLPIKey.php:372                                GLPIKey->get()
+  src/Config.php:3107                                GLPIKey->encrypt()
+  src/Config.php:354                                 Config::setConfigurationValues()
+  src/CommonDBTM.php:1616                            Config->prepareInputForUpdate()
+  front/config.form.php:68                           CommonDBTM->update()
+  public/index.php:82                                require()
+  
+[2025-10-30 14:10:13] glpiphplog.WARNING: Test logger  
+[2025-10-30 14:19:19] glpiphplog.WARNING: Test logger  
+[2025-10-30 14:19:49] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Call to undefined function Safe\define() in /var/www/html/glpi/plugins/glpiinventory/setup.php at line 40
+  Backtrace :
+  src/Plugin.php:1957                                include_once()
+  src/Plugin.php:1959                                Plugin->{closure}()
+  src/Plugin.php:1874                                Plugin->loadPluginSetupFile()
+  src/Plugin.php:550                                 Plugin->getInformationsFromDirectory()
+  src/Plugin.php:599                                 Plugin->getPluginInformation()
+  src/Console/Plugin/InstallCommand.php:130          Plugin->checkPluginState()
+  vendor/symfony/console/Command/Command.php:298     Glpi\Console\Plugin\InstallCommand->execute()
+  vendor/symfony/console/Application.php:1040        Symfony\Component\Console\Command\Command->run()
+  src/Console/Application.php:286                    Symfony\Component\Console\Application->doRunCommand()
+  vendor/symfony/console/Application.php:301         Glpi\Console\Application->doRunCommand()
+  vendor/symfony/console/Application.php:171         Symfony\Component\Console\Application->doRun()
+  bin/console:133                                    Symfony\Component\Console\Application->run()
+  
+[2025-10-30 14:25:19] glpiphplog.WARNING: Test logger  
+[2025-10-30 14:25:23] glpiphplog.CRITICAL:   *** Uncaught Exception Error: Call to undefined function Safe\define() in /var/www/html/glpi/plugins/glpiinventory/setup.php at line 40
+  Backtrace :
+  src/Plugin.php:1957                                include_once()
+  src/Plugin.php:1959                                Plugin->{closure}()
+  src/Plugin.php:1874                                Plugin->loadPluginSetupFile()
+  src/Plugin.php:550                                 Plugin->getInformationsFromDirectory()
+  src/Plugin.php:599                                 Plugin->getPluginInformation()
+  src/Console/Plugin/InstallCommand.php:130          Plugin->checkPluginState()
+  vendor/symfony/console/Command/Command.php:298     Glpi\Console\Plugin\InstallCommand->execute()
+  vendor/symfony/console/Application.php:1040        Symfony\Component\Console\Command\Command->run()
+  src/Console/Application.php:286                    Symfony\Component\Console\Application->doRunCommand()
+  vendor/symfony/console/Application.php:301         Glpi\Console\Application->doRunCommand()
+  vendor/symfony/console/Application.php:171         Symfony\Component\Console\Application->doRun()
+  bin/console:133                                    Symfony\Component\Console\Application->run()
+  
+[2025-10-30 14:39:10] glpiphplog.WARNING: Test logger  
+[2025-10-30 15:29:04] glpiphplog.WARNING:   *** PHP User Warning (512): Fallo en la conexión. Si usted utiliza proxy, por favor configúrelo. (Empty reply from server) in /var/www/html/glpi/src/Toolbox.php at line 1570
+  Backtrace :
+  src/Toolbox.php:1570                               trigger_error()
+  src/Toolbox.php:1565                               Toolbox::callCurl()
+  src/GLPINetwork.php:322                            Toolbox::callCurl()
+  src/Marketplace/View.php:150                       GLPINetwork::isServicesAvailable()
+  src/Marketplace/View.php:219                       Glpi\Marketplace\View::checkRegistrationStatus()
+  src/Marketplace/View.php:124                       Glpi\Marketplace\View::installed()
+  src/CommonGLPI.php:692                             Glpi\Marketplace\View::displayTabContentForItem()
+  ajax/common.tabs.php:120                           CommonGLPI::displayStandardTab()
+  public/index.php:82                                require()
+  
+[2025-10-30 17:14:32] glpiphplog.WARNING:   *** PHP Warning (2): Trying to access array offset on false in /var/www/html/glpi/marketplace/glpiinventory/setup.php at line 95
+  Backtrace :
+  src/Plugin.php:353                                 plugin_init_glpiinventory()
+  src/Plugin.php:305                                 Plugin::load()
+  inc/includes.php:98                                Plugin->init()
+  index.php:87                                       include()
+  public/index.php:82                                require()
+  
+[2025-10-30 17:14:32] glpiphplog.WARNING:   *** PHP Warning (2): Trying to access array offset on false in /var/www/html/glpi/marketplace/glpiinventory/setup.php at line 77
+  Backtrace :
+  marketplace/glpiinventory/setup.php:254            plugin_glpiinventory_script_endswith()
+  src/Plugin.php:353                                 plugin_init_glpiinventory()
+  src/Plugin.php:305                                 Plugin::load()
+  inc/includes.php:98                                Plugin->init()
+  index.php:87                                       include()
+  public/index.php:82                                require()
+  
+[2025-10-30 17:14:32] glpiphplog.WARNING:   *** PHP Warning (2): Trying to access array offset on false in /var/www/html/glpi/marketplace/glpiinventory/setup.php at line 77
+  Backtrace :
+  marketplace/glpiinventory/setup.php:257            plugin_glpiinventory_script_endswith()
+  src/Plugin.php:353                                 plugin_init_glpiinventory()
+  src/Plugin.php:305                                 Plugin::load()
+  inc/includes.php:98                                Plugin->init()
+  index.php:87                                       include()
+  public/index.php:82                                require()
+  
+[2025-10-30 17:14:32] glpiphplog.WARNING:   *** PHP Warning (2): Trying to access array offset on false in /var/www/html/glpi/marketplace/glpiinventory/setup.php at line 77
+  Backtrace :
+  marketplace/glpiinventory/setup.php:271            plugin_glpiinventory_script_endswith()
+  src/Plugin.php:353                                 plugin_init_glpiinventory()
+  src/Plugin.php:305                                 Plugin::load()
+  inc/includes.php:98                                Plugin->init()
+  index.php:87                                       include()
+  public/index.php:82                                require()
+  
+[2025-10-30 17:14:32] glpiphplog.WARNING:   *** PHP Warning (2): Trying to access array offset on false in /var/www/html/glpi/marketplace/glpiinventory/setup.php at line 77
+  Backtrace :
+  marketplace/glpiinventory/setup.php:272            plugin_glpiinventory_script_endswith()
+  src/Plugin.php:353                                 plugin_init_glpiinventory()
+  src/Plugin.php:305                                 Plugin::load()
+  inc/includes.php:98                                Plugin->init()
+  index.php:87                                       include()
+  public/index.php:82                                require()
+  
+[2025-10-30 17:14:32] glpiphplog.WARNING:   *** PHP Warning (2): Trying to access array offset on false in /var/www/html/glpi/marketplace/glpiinventory/setup.php at line 77
+  Backtrace :
+  marketplace/glpiinventory/setup.php:273            plugin_glpiinventory_script_endswith()
+  src/Plugin.php:353                                 plugin_init_glpiinventory()
+  src/Plugin.php:305                                 Plugin::load()
+  inc/includes.php:98                                Plugin->init()
+  index.php:87                                       include()
+  public/index.php:82                                require()
+  
+[2025-10-30 17:14:32] glpiphplog.WARNING:   *** PHP Warning (2): Trying to access array offset on false in /var/www/html/glpi/marketplace/glpiinventory/setup.php at line 77
+  Backtrace :
+  marketplace/glpiinventory/setup.php:282            plugin_glpiinventory_script_endswith()
+  src/Plugin.php:353                                 plugin_init_glpiinventory()
+  src/Plugin.php:305                                 Plugin::load()
+  inc/includes.php:98                                Plugin->init()
+  index.php:87                                       include()
+  public/index.php:82                                require()
+  
+[2025-11-04 14:20:58] glpiphplog.WARNING:   *** PHP Warning (2): mysqli::real_connect(): (HY000/2002): No such file or directory in /var/www/html/glpi/src/DBmysql.php at line 250
+  Backtrace :
+  src/DBmysql.php:250                                mysqli->real_connect()
+  src/DBmysql.php:209                                DBmysql->connect()
+  src/DBConnection.php:416                           DBmysql->__construct()
+  src/DBConnection.php:511                           DBConnection::switchToMaster()
+  inc/config.php:129                                 DBConnection::establishDBConnection()
+  inc/includes.php:58                                include_once()
+  index.php:87                                       include()
+  public/index.php:82                                require()
+  
+[2025-11-04 14:52:40] glpiphplog.WARNING:   *** PHP User Warning (512): Invalid relations declared between "glpi_documents" and "glpi_plugin_manageentities_companies" table. Target field "logo_id" is not a foreign key field. in /var/www/html/glpi/src/DbUtils.php at line 2232
+  Backtrace :
+  src/DbUtils.php:2232                               trigger_error()
+  inc/db.function.php:588                            DbUtils->getDbRelations()
+  src/CommonDBTM.php:874                             getDbRelations()
+  src/CommonDBTM.php:794                             CommonDBTM->cleanRelationData()
+  src/CommonDBTM.php:2106                            CommonDBTM->deleteFromDB()
+  src/CommonDBTM.php:4688                            CommonDBTM->delete()
+  marketplace/pdf/inc/profile.class.php:122          CommonDBTM->deleteByCriteria()
+  marketplace/pdf/inc/profile.class.php:144          PluginPdfProfile::addDefaultProfileInfos()
+  marketplace/pdf/inc/profile.class.php:201          PluginPdfProfile::createFirstAccess()
+  marketplace/pdf/hook.php:70                        PluginPdfProfile::install()
+  src/Plugin.php:955                                 plugin_pdf_install()
+  :                                                  Plugin->install()
+  src/Marketplace/Controller.php:546                 call_user_func()
+  src/Marketplace/Controller.php:436                 Glpi\Marketplace\Controller->setPluginState()
+  src/Marketplace/Controller.php:179                 Glpi\Marketplace\Controller->installPlugin()
+  ajax/marketplace.php:75                            Glpi\Marketplace\Controller->downloadPlugin()
+  public/index.php:82                                require()
+  
+[2025-11-04 14:53:14] glpiphplog.WARNING:   *** PHP User Warning (512): Invalid relations declared between "glpi_documents" and "glpi_plugin_manageentities_companies" table. Target field "logo_id" is not a foreign key field. in /var/www/html/glpi/src/DbUtils.php at line 2232
+  Backtrace :
+  src/DbUtils.php:2232                               trigger_error()
+  inc/db.function.php:588                            DbUtils->getDbRelations()
+  src/CommonDBTM.php:874                             getDbRelations()
+  src/CommonDBTM.php:794                             CommonDBTM->cleanRelationData()
+  src/CommonDBTM.php:2106                            CommonDBTM->deleteFromDB()
+  src/CommonDBTM.php:4688                            CommonDBTM->delete()
+  ...place/webapplications/inc/profile.class.php:120 CommonDBTM->deleteByCriteria()
+  ...tplace/webapplications/inc/profile.class.php:91 PluginWebapplicationsProfile::addDefaultProfileInfos()
+  marketplace/webapplications/hook.php:171           PluginWebapplicationsProfile::createFirstAccess()
+  src/Plugin.php:955                                 plugin_webapplications_install()
+  :                                                  Plugin->install()
+  src/Marketplace/Controller.php:546                 call_user_func()
+  src/Marketplace/Controller.php:436                 Glpi\Marketplace\Controller->setPluginState()
+  src/Marketplace/Controller.php:179                 Glpi\Marketplace\Controller->installPlugin()
+  ajax/marketplace.php:75                            Glpi\Marketplace\Controller->downloadPlugin()
+  public/index.php:82                                require()
+  
+[2025-11-04 14:53:14] glpiphplog.WARNING:   *** PHP User Warning (512): Invalid relations declared between "glpi_documents" and "glpi_plugin_manageentities_companies" table. Target field "logo_id" is not a foreign key field. in /var/www/html/glpi/src/DbUtils.php at line 2232
+  Backtrace :
+  src/DbUtils.php:2232                               trigger_error()
+  inc/db.function.php:588                            DbUtils->getDbRelations()
+  src/CommonDBTM.php:874                             getDbRelations()
+  src/CommonDBTM.php:794                             CommonDBTM->cleanRelationData()
+  src/CommonDBTM.php:2106                            CommonDBTM->deleteFromDB()
+  src/CommonDBTM.php:4688                            CommonDBTM->delete()
+  ...place/webapplications/inc/profile.class.php:120 CommonDBTM->deleteByCriteria()
+  ...tplace/webapplications/inc/profile.class.php:91 PluginWebapplicationsProfile::addDefaultProfileInfos()
+  marketplace/webapplications/hook.php:171           PluginWebapplicationsProfile::createFirstAccess()
+  src/Plugin.php:955                                 plugin_webapplications_install()
+  :                                                  Plugin->install()
+  src/Marketplace/Controller.php:546                 call_user_func()
+  src/Marketplace/Controller.php:436                 Glpi\Marketplace\Controller->setPluginState()
+  src/Marketplace/Controller.php:179                 Glpi\Marketplace\Controller->installPlugin()
+  ajax/marketplace.php:75                            Glpi\Marketplace\Controller->downloadPlugin()
+  public/index.php:82                                require()
+  
+[2025-11-04 14:53:14] glpiphplog.WARNING:   *** PHP User Warning (512): Invalid relations declared between "glpi_documents" and "glpi_plugin_manageentities_companies" table. Target field "logo_id" is not a foreign key field. in /var/www/html/glpi/src/DbUtils.php at line 2232
+  Backtrace :
+  src/DbUtils.php:2232                               trigger_error()
+  inc/db.function.php:588                            DbUtils->getDbRelations()
+  src/CommonDBTM.php:874                             getDbRelations()
+  src/CommonDBTM.php:794                             CommonDBTM->cleanRelationData()
+  src/CommonDBTM.php:2106                            CommonDBTM->deleteFromDB()
+  src/CommonDBTM.php:4688                            CommonDBTM->delete()
+  ...place/webapplications/inc/profile.class.php:120 CommonDBTM->deleteByCriteria()
+  ...tplace/webapplications/inc/profile.class.php:91 PluginWebapplicationsProfile::addDefaultProfileInfos()
+  marketplace/webapplications/hook.php:171           PluginWebapplicationsProfile::createFirstAccess()
+  src/Plugin.php:955                                 plugin_webapplications_install()
+  :                                                  Plugin->install()
+  src/Marketplace/Controller.php:546                 call_user_func()
+  src/Marketplace/Controller.php:436                 Glpi\Marketplace\Controller->setPluginState()
+  src/Marketplace/Controller.php:179                 Glpi\Marketplace\Controller->installPlugin()
+  ajax/marketplace.php:75                            Glpi\Marketplace\Controller->downloadPlugin()
+  public/index.php:82                                require()
+  
+[2025-11-04 14:53:14] glpiphplog.WARNING:   *** PHP User Warning (512): Invalid relations declared between "glpi_documents" and "glpi_plugin_manageentities_companies" table. Target field "logo_id" is not a foreign key field. in /var/www/html/glpi/src/DbUtils.php at line 2232
+  Backtrace :
+  src/DbUtils.php:2232                               trigger_error()
+  inc/db.function.php:588                            DbUtils->getDbRelations()
+  src/CommonDBTM.php:874                             getDbRelations()
+  src/CommonDBTM.php:794                             CommonDBTM->cleanRelationData()
+  src/CommonDBTM.php:2106                            CommonDBTM->deleteFromDB()
+  src/CommonDBTM.php:4688                            CommonDBTM->delete()
+  ...place/webapplications/inc/profile.class.php:120 CommonDBTM->deleteByCriteria()
+  ...tplace/webapplications/inc/profile.class.php:91 PluginWebapplicationsProfile::addDefaultProfileInfos()
+  marketplace/webapplications/hook.php:171           PluginWebapplicationsProfile::createFirstAccess()
+  src/Plugin.php:955                                 plugin_webapplications_install()
+  :                                                  Plugin->install()
+  src/Marketplace/Controller.php:546                 call_user_func()
+  src/Marketplace/Controller.php:436                 Glpi\Marketplace\Controller->setPluginState()
+  src/Marketplace/Controller.php:179                 Glpi\Marketplace\Controller->installPlugin()
+  ajax/marketplace.php:75                            Glpi\Marketplace\Controller->downloadPlugin()
+  public/index.php:82                                require()
+  
+[2025-11-04 14:53:14] glpiphplog.WARNING:   *** PHP User Warning (512): Invalid relations declared between "glpi_documents" and "glpi_plugin_manageentities_companies" table. Target field "logo_id" is not a foreign key field. in /var/www/html/glpi/src/DbUtils.php at line 2232
+  Backtrace :
+  src/DbUtils.php:2232                               trigger_error()
+  inc/db.function.php:588                            DbUtils->getDbRelations()
+  src/CommonDBTM.php:874                             getDbRelations()
+  src/CommonDBTM.php:794                             CommonDBTM->cleanRelationData()
+  src/CommonDBTM.php:2106                            CommonDBTM->deleteFromDB()
+  src/CommonDBTM.php:4688                            CommonDBTM->delete()
+  ...place/webapplications/inc/profile.class.php:120 CommonDBTM->deleteByCriteria()
+  ...tplace/webapplications/inc/profile.class.php:91 PluginWebapplicationsProfile::addDefaultProfileInfos()
+  marketplace/webapplications/hook.php:171           PluginWebapplicationsProfile::createFirstAccess()
+  src/Plugin.php:955                                 plugin_webapplications_install()
+  :                                                  Plugin->install()
+  src/Marketplace/Controller.php:546                 call_user_func()
+  src/Marketplace/Controller.php:436                 Glpi\Marketplace\Controller->setPluginState()
+  src/Marketplace/Controller.php:179                 Glpi\Marketplace\Controller->installPlugin()
+  ajax/marketplace.php:75                            Glpi\Marketplace\Controller->downloadPlugin()
+  public/index.php:82                                require()
+  
+[2025-11-04 14:54:40] glpiphplog.WARNING:   *** PHP User Warning (512): Usage of "DATETIME" fields is discouraged, please use "TIMESTAMP" fields instead. in /var/www/html/glpi/src/DBmysql.php at line 2157
+  Backtrace :
+  src/DBmysql.php:2157                               trigger_error()
+  src/DBmysql.php:386                                DBmysql->checkForDeprecatedTableOptions()
+  src/DBmysql.php:1076                               DBmysql->doQuery()
+  marketplace/archimap/hook.php:40                   DBmysql->runFile()
+  src/Plugin.php:955                                 plugin_archimap_install()
+  :                                                  Plugin->install()
+  src/Marketplace/Controller.php:546                 call_user_func()
+  src/Marketplace/Controller.php:436                 Glpi\Marketplace\Controller->setPluginState()
+  src/Marketplace/Controller.php:179                 Glpi\Marketplace\Controller->installPlugin()
+  ajax/marketplace.php:75                            Glpi\Marketplace\Controller->downloadPlugin()
+  public/index.php:82                                require()
+  
+[2025-11-04 14:54:40] glpiphplog.WARNING:   *** PHP User Warning (512): Usage of signed integers in primary or foreign keys is discouraged, please use unsigned integers instead in `glpi_plugin_archimap_graphs`.`id`. in /var/www/html/glpi/src/DBmysql.php at line 2169
+  Backtrace :
+  src/DBmysql.php:2169                               trigger_error()
+  src/DBmysql.php:386                                DBmysql->checkForDeprecatedTableOptions()
+  src/DBmysql.php:1076                               DBmysql->doQuery()
+  marketplace/archimap/hook.php:40                   DBmysql->runFile()
+  src/Plugin.php:955                                 plugin_archimap_install()
+  :                                                  Plugin->install()
+  src/Marketplace/Controller.php:546                 call_user_func()
+  src/Marketplace/Controller.php:436                 Glpi\Marketplace\Controller->setPluginState()
+  src/Marketplace/Controller.php:179                 Glpi\Marketplace\Controller->installPlugin()
+  ajax/marketplace.php:75                            Glpi\Marketplace\Controller->downloadPlugin()
+  public/index.php:82                                require()
+  
+[2025-11-04 14:54:40] glpiphplog.WARNING:   *** PHP User Warning (512): Usage of signed integers in primary or foreign keys is discouraged, please use unsigned integers instead in `glpi_plugin_archimap_graphs_items`.`id`. in /var/www/html/glpi/src/DBmysql.php at line 2169
+  Backtrace :
+  src/DBmysql.php:2169                               trigger_error()
+  src/DBmysql.php:386                                DBmysql->checkForDeprecatedTableOptions()
+  src/DBmysql.php:1076                               DBmysql->doQuery()
+  marketplace/archimap/hook.php:40                   DBmysql->runFile()
+  src/Plugin.php:955                                 plugin_archimap_install()
+  :                                                  Plugin->install()
+  src/Marketplace/Controller.php:546                 call_user_func()
+  src/Marketplace/Controller.php:436                 Glpi\Marketplace\Controller->setPluginState()
+  src/Marketplace/Controller.php:179                 Glpi\Marketplace\Controller->installPlugin()
+  ajax/marketplace.php:75                            Glpi\Marketplace\Controller->downloadPlugin()
+  public/index.php:82                                require()
+  
+[2025-11-04 14:54:40] glpiphplog.WARNING:   *** PHP User Warning (512): Usage of signed integers in primary or foreign keys is discouraged, please use unsigned integers instead in `glpi_plugin_archimap_profiles`.`id`. in /var/www/html/glpi/src/DBmysql.php at line 2169
+  Backtrace :
+  src/DBmysql.php:2169                               trigger_error()
+  src/DBmysql.php:386                                DBmysql->checkForDeprecatedTableOptions()
+  src/DBmysql.php:1076                               DBmysql->doQuery()
+  marketplace/archimap/hook.php:40                   DBmysql->runFile()
+  src/Plugin.php:955                                 plugin_archimap_install()
+  :                                                  Plugin->install()
+  src/Marketplace/Controller.php:546                 call_user_func()
+  src/Marketplace/Controller.php:436                 Glpi\Marketplace\Controller->setPluginState()
+  src/Marketplace/Controller.php:179                 Glpi\Marketplace\Controller->installPlugin()
+  ajax/marketplace.php:75                            Glpi\Marketplace\Controller->downloadPlugin()
+  public/index.php:82                                require()
+  
+[2025-11-04 14:54:40] glpiphplog.WARNING:   *** PHP User Warning (512): Usage of signed integers in primary or foreign keys is discouraged, please use unsigned integers instead in `glpi_plugin_archimap_graphtypes`.`id`. in /var/www/html/glpi/src/DBmysql.php at line 2169
+  Backtrace :
+  src/DBmysql.php:2169                               trigger_error()
+  src/DBmysql.php:386                                DBmysql->checkForDeprecatedTableOptions()
+  src/DBmysql.php:1076                               DBmysql->doQuery()
+  marketplace/archimap/hook.php:40                   DBmysql->runFile()
+  src/Plugin.php:955                                 plugin_archimap_install()
+  :                                                  Plugin->install()
+  src/Marketplace/Controller.php:546                 call_user_func()
+  src/Marketplace/Controller.php:436                 Glpi\Marketplace\Controller->setPluginState()
+  src/Marketplace/Controller.php:179                 Glpi\Marketplace\Controller->installPlugin()
+  ajax/marketplace.php:75                            Glpi\Marketplace\Controller->downloadPlugin()
+  public/index.php:82                                require()
+  
+[2025-11-04 14:54:40] glpiphplog.WARNING:   *** PHP User Warning (512): Usage of signed integers in primary or foreign keys is discouraged, please use unsigned integers instead in `glpi_plugin_archimap_graphstates`.`id`. in /var/www/html/glpi/src/DBmysql.php at line 2169
+  Backtrace :
+  src/DBmysql.php:2169                               trigger_error()
+  src/DBmysql.php:386                                DBmysql->checkForDeprecatedTableOptions()
+  src/DBmysql.php:1076                               DBmysql->doQuery()
+  marketplace/archimap/hook.php:40                   DBmysql->runFile()
+  src/Plugin.php:955                                 plugin_archimap_install()
+  :                                                  Plugin->install()
+  src/Marketplace/Controller.php:546                 call_user_func()
+  src/Marketplace/Controller.php:436                 Glpi\Marketplace\Controller->setPluginState()
+  src/Marketplace/Controller.php:179                 Glpi\Marketplace\Controller->installPlugin()
+  ajax/marketplace.php:75                            Glpi\Marketplace\Controller->downloadPlugin()
+  public/index.php:82                                require()
+  
+[2025-11-04 14:54:40] glpiphplog.WARNING:   *** PHP User Warning (512): Usage of signed integers in primary or foreign keys is discouraged, please use unsigned integers instead in `glpi_plugin_archimap_graphlevels`.`id`. in /var/www/html/glpi/src/DBmysql.php at line 2169
+  Backtrace :
+  src/DBmysql.php:2169                               trigger_error()
+  src/DBmysql.php:386                                DBmysql->checkForDeprecatedTableOptions()
+  src/DBmysql.php:1076                               DBmysql->doQuery()
+  marketplace/archimap/hook.php:40                   DBmysql->runFile()
+  src/Plugin.php:955                                 plugin_archimap_install()
+  :                                                  Plugin->install()
+  src/Marketplace/Controller.php:546                 call_user_func()
+  src/Marketplace/Controller.php:436                 Glpi\Marketplace\Controller->setPluginState()
+  src/Marketplace/Controller.php:179                 Glpi\Marketplace\Controller->installPlugin()
+  ajax/marketplace.php:75                            Glpi\Marketplace\Controller->downloadPlugin()
+  public/index.php:82                                require()
+  
+[2025-11-04 14:54:40] glpiphplog.WARNING:   *** PHP User Warning (512): Usage of signed integers in primary or foreign keys is discouraged, please use unsigned integers instead in `glpi_plugin_archimap_configs`.`id`. in /var/www/html/glpi/src/DBmysql.php at line 2169
+  Backtrace :
+  src/DBmysql.php:2169                               trigger_error()
+  src/DBmysql.php:386                                DBmysql->checkForDeprecatedTableOptions()
+  src/DBmysql.php:1076                               DBmysql->doQuery()
+  marketplace/archimap/hook.php:40                   DBmysql->runFile()
+  src/Plugin.php:955                                 plugin_archimap_install()
+  :                                                  Plugin->install()
+  src/Marketplace/Controller.php:546                 call_user_func()
+  src/Marketplace/Controller.php:436                 Glpi\Marketplace\Controller->setPluginState()
+  src/Marketplace/Controller.php:179                 Glpi\Marketplace\Controller->installPlugin()
+  ajax/marketplace.php:75                            Glpi\Marketplace\Controller->downloadPlugin()
+  public/index.php:82                                require()
+  
+[2025-11-04 14:54:40] glpiphplog.WARNING:   *** PHP User Warning (512): Invalid relations declared between "glpi_documents" and "glpi_plugin_manageentities_companies" table. Target field "logo_id" is not a foreign key field. in /var/www/html/glpi/src/DbUtils.php at line 2232
+  Backtrace :
+  src/DbUtils.php:2232                               trigger_error()
+  inc/db.function.php:588                            DbUtils->getDbRelations()
+  src/CommonDBTM.php:874                             getDbRelations()
+  src/CommonDBTM.php:794                             CommonDBTM->cleanRelationData()
+  src/CommonDBTM.php:2106                            CommonDBTM->deleteFromDB()
+  src/CommonDBTM.php:4688                            CommonDBTM->delete()
+  marketplace/archimap/inc/profile.class.php:77      CommonDBTM->deleteByCriteria()
+  marketplace/archimap/inc/profile.class.php:60      PluginArchimapProfile::addDefaultProfileInfos()
+  marketplace/archimap/hook.php:114                  PluginArchimapProfile::createFirstAccess()
+  src/Plugin.php:955                                 plugin_archimap_install()
+  :                                                  Plugin->install()
+  src/Marketplace/Controller.php:546                 call_user_func()
+  src/Marketplace/Controller.php:436                 Glpi\Marketplace\Controller->setPluginState()
+  src/Marketplace/Controller.php:179                 Glpi\Marketplace\Controller->installPlugin()
+  ajax/marketplace.php:75                            Glpi\Marketplace\Controller->downloadPlugin()
+  public/index.php:82                                require()
+  
+[2025-11-04 14:54:40] glpiphplog.WARNING:   *** PHP User Warning (512): Invalid relations declared between "glpi_documents" and "glpi_plugin_manageentities_companies" table. Target field "logo_id" is not a foreign key field. in /var/www/html/glpi/src/DbUtils.php at line 2232
+  Backtrace :
+  src/DbUtils.php:2232                               trigger_error()
+  inc/db.function.php:588                            DbUtils->getDbRelations()
+  src/CommonDBTM.php:874                             getDbRelations()
+  src/CommonDBTM.php:794                             CommonDBTM->cleanRelationData()
+  src/CommonDBTM.php:2106                            CommonDBTM->deleteFromDB()
+  src/CommonDBTM.php:4688                            CommonDBTM->delete()
+  marketplace/archimap/inc/profile.class.php:77      CommonDBTM->deleteByCriteria()
+  marketplace/archimap/inc/profile.class.php:60      PluginArchimapProfile::addDefaultProfileInfos()
+  marketplace/archimap/hook.php:114                  PluginArchimapProfile::createFirstAccess()
+  src/Plugin.php:955                                 plugin_archimap_install()
+  :                                                  Plugin->install()
+  src/Marketplace/Controller.php:546                 call_user_func()
+  src/Marketplace/Controller.php:436                 Glpi\Marketplace\Controller->setPluginState()
+  src/Marketplace/Controller.php:179                 Glpi\Marketplace\Controller->installPlugin()
+  ajax/marketplace.php:75                            Glpi\Marketplace\Controller->downloadPlugin()
+  public/index.php:82                                require()
+  
+[2025-11-04 16:24:13] glpiphplog.DEBUG: Html::compileScss() in /var/www/html/glpi/src/Html.php line 6866
+Compile /plugins/formcreator/css/styles.scss  {"user":"@ADM-SIS-PRT-001"} 
+[2025-11-04 16:24:13] glpiphplog.WARNING: Test logger  

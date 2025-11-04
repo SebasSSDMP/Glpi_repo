@@ -1,0 +1,278 @@
+2025-10-30 14:35:14 [2@ADM-SIS-PRT-001]
+0 seconds for "GLPI Inventory plugin installation"
+2025-10-30 14:35:14 [2@ADM-SIS-PRT-001]
+0 seconds for "Clean data from old installation of the plugin"
+2025-10-30 14:35:14 [2@ADM-SIS-PRT-001]
+0 seconds for "Clean rules from old installation of the plugin"
+2025-10-30 14:35:16 [2@ADM-SIS-PRT-001]
+2 seconds for "Creation tables in database"
+2025-10-30 14:35:16 [2@ADM-SIS-PRT-001]
+0 seconds for "Creation of folders"
+2025-10-30 14:35:18 [2@ADM-SIS-PRT-001]
+2 seconds for "Initialize profiles"
+2025-10-30 14:35:18 [2@ADM-SIS-PRT-001]
+0 seconds for "Initialize configuration"
+2025-10-30 14:35:18 [2@ADM-SIS-PRT-001]
+0 seconds for "Initialize agent TASKS"
+2025-10-30 14:36:34 [2@ADM-SIS-PRT-001]
+0 seconds for "Migration Classname : Migration"
+2025-10-30 14:36:34 [2@ADM-SIS-PRT-001]
+0 seconds for "Update of plugin GLPI Inventory"
+2025-10-30 14:36:34 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_agents"
+2025-10-30 14:36:34 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_agents"
+2025-10-30 14:36:34 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_agents"
+2025-10-30 14:36:34 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_agentmodules"
+2025-10-30 14:36:34 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_configs"
+2025-10-30 14:36:34 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_configs"
+2025-10-30 14:36:34 [2@ADM-SIS-PRT-001]
+0 seconds for "Agregando índices de unicidad - glpi_plugin_glpiinventory_configs"
+2025-10-30 14:36:34 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_entities"
+2025-10-30 14:36:34 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_entities"
+2025-10-30 14:36:35 [2@ADM-SIS-PRT-001]
+1 segundos for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_entities"
+2025-10-30 14:36:35 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_locks"
+2025-10-30 14:36:35 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_locks"
+2025-10-30 14:36:35 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_locks"
+2025-10-30 14:36:35 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_locks"
+2025-10-30 14:36:35 [2@ADM-SIS-PRT-001]
+0 seconds for "Agregando índices de unicidad - glpi_plugin_glpiinventory_locks"
+2025-10-30 14:36:35 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_ignoredimportdevices"
+2025-10-30 14:36:35 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_ignoredimportdevices"
+2025-10-30 14:36:35 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_ignoredimportdevices"
+2025-10-30 14:36:35 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_rulematchedlogs"
+2025-10-30 14:36:35 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_rulematchedlogs"
+2025-10-30 14:36:35 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_unmanageds"
+2025-10-30 14:36:35 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_unmanageds"
+2025-10-30 14:36:36 [2@ADM-SIS-PRT-001]
+1 segundos for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_unmanageds"
+2025-10-30 14:36:36 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_inventorycomputercriterias"
+2025-10-30 14:36:36 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_inventorycomputercriterias"
+2025-10-30 14:36:36 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_inventorycomputercriterias"
+2025-10-30 14:36:36 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_inventorycomputerblacklists"
+2025-10-30 14:36:36 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_inventorycomputerblacklists"
+2025-10-30 14:36:36 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_inventorycomputerblacklists"
+2025-10-30 14:36:36 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_inventorycomputercomputers"
+2025-10-30 14:36:37 [2@ADM-SIS-PRT-001]
+1 segundos for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_inventorycomputercomputers"
+2025-10-30 14:36:37 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_inventorycomputercomputers"
+2025-10-30 14:36:37 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_computerlicenseinfos"
+2025-10-30 14:36:37 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_computerlicenseinfos"
+2025-10-30 14:36:37 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_computerlicenseinfos"
+2025-10-30 14:36:37 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_computerremotemanagements"
+2025-10-30 14:36:37 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_computerremotemanagements"
+2025-10-30 14:36:37 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_computerremotemanagements"
+2025-10-30 14:36:37 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_inventorycomputercomputers"
+2025-10-30 14:36:37 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_dblockinventorynames"
+2025-10-30 14:36:37 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_dblockinventorynames"
+2025-10-30 14:36:37 [2@ADM-SIS-PRT-001]
+0 seconds for "Agregando índices de unicidad - glpi_plugin_glpiinventory_dblockinventorynames"
+2025-10-30 14:36:37 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_dblockinventories"
+2025-10-30 14:36:37 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_dblockinventories"
+2025-10-30 14:36:38 [2@ADM-SIS-PRT-001]
+1 segundos for "Agregando índices de unicidad - glpi_plugin_glpiinventory_dblockinventories"
+2025-10-30 14:36:38 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_dblocksoftwares"
+2025-10-30 14:36:38 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_dblocksoftwares"
+2025-10-30 14:36:38 [2@ADM-SIS-PRT-001]
+0 seconds for "Agregando índices de unicidad - glpi_plugin_glpiinventory_dblocksoftwares"
+2025-10-30 14:36:38 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_dblocksoftwareversions"
+2025-10-30 14:36:38 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_dblocksoftwareversions"
+2025-10-30 14:36:38 [2@ADM-SIS-PRT-001]
+0 seconds for "Agregando índices de unicidad - glpi_plugin_glpiinventory_dblocksoftwareversions"
+2025-10-30 14:36:38 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_taskjobs"
+2025-10-30 14:36:38 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_ipranges"
+2025-10-30 14:36:38 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_ipranges_configsecurities"
+2025-10-30 14:36:39 [2@ADM-SIS-PRT-001]
+1 segundos for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_ipranges_configsecurities"
+2025-10-30 14:36:39 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_configlogfields"
+2025-10-30 14:36:39 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_configlogfields"
+2025-10-30 14:36:39 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_networkportconnectionlogs"
+2025-10-30 14:36:39 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_networkportconnectionlogs"
+2025-10-30 14:36:39 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_networkporttypes"
+2025-10-30 14:36:39 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_networkporttypes"
+2025-10-30 14:36:39 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_networkports"
+2025-10-30 14:36:39 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_networkports"
+2025-10-30 14:36:39 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_networkportlogs"
+2025-10-30 14:36:39 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_networkportlogs"
+2025-10-30 14:36:40 [2@ADM-SIS-PRT-001]
+1 segundos for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_networkportlogs"
+2025-10-30 14:36:40 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_printers"
+2025-10-30 14:36:40 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_printers"
+2025-10-30 14:36:40 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_printerlogs"
+2025-10-30 14:36:40 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_printerlogs"
+2025-10-30 14:36:40 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_printercartridges"
+2025-10-30 14:36:40 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_printercartridges"
+2025-10-30 14:36:40 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_printercartridges"
+2025-10-30 14:36:40 [2@ADM-SIS-PRT-001]
+0 seconds for "Clean printers"
+2025-10-30 14:36:40 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_networkequipments"
+2025-10-30 14:36:41 [2@ADM-SIS-PRT-001]
+1 segundos for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_networkequipments"
+2025-10-30 14:36:41 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_configsecurities"
+2025-10-30 14:36:41 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_configsecurities"
+2025-10-30 14:36:41 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_statediscoveries"
+2025-10-30 14:36:41 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_deployfiles"
+2025-10-30 14:36:41 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_deployfiles"
+2025-10-30 14:36:41 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_deploypackages"
+2025-10-30 14:36:41 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_deploypackages_entities"
+2025-10-30 14:36:41 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_deploypackages_groups"
+2025-10-30 14:36:41 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_deploypackages_profiles"
+2025-10-30 14:36:41 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_deploypackages_users"
+2025-10-30 14:36:41 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_deploymirrors"
+2025-10-30 14:36:41 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_deploygroups"
+2025-10-30 14:36:41 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_deploygroups_staticdatas"
+2025-10-30 14:36:41 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_deploygroups_dynamicdatas"
+2025-10-30 14:36:42 [2@ADM-SIS-PRT-001]
+1 segundos for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_credentials"
+2025-10-30 14:36:42 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_credentialips"
+2025-10-30 14:36:42 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_collects"
+2025-10-30 14:36:42 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_collects_registries"
+2025-10-30 14:36:42 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_collects_registries_contents"
+2025-10-30 14:36:42 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_collects_wmis"
+2025-10-30 14:36:42 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_collects_wmis_contents"
+2025-10-30 14:36:42 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_collects_files"
+2025-10-30 14:36:42 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_collects_files_contents"
+2025-10-30 14:36:42 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_tasks"
+2025-10-30 14:36:42 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_taskjobs"
+2025-10-30 14:36:42 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_taskjoblogs"
+2025-10-30 14:36:42 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_taskjobstates"
+2025-10-30 14:36:42 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_taskjobstates"
+2025-10-30 14:36:42 [2@ADM-SIS-PRT-001]
+0 seconds for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_timeslots"
+2025-10-30 14:36:43 [2@ADM-SIS-PRT-001]
+1 segundos for "Cambio del diseño de la Base de datos - glpi_plugin_glpiinventory_timeslotentries"
+2025-10-30 14:36:43 [2@ADM-SIS-PRT-001]
+0 seconds for "Add Crontasks"
+2025-10-30 14:36:43 [2@ADM-SIS-PRT-001]
+0 seconds for "Valores de configuración agregados para credentials_encryption_migration_was_executed (glpiinventory)."
+2025-10-30 14:36:43 [2@ADM-SIS-PRT-001]
+0 seconds for "Migration Classname : Migration"
+2025-10-30 14:36:43 [2@ADM-SIS-PRT-001]
+0 seconds for "Use core capabilities"
+2025-10-30 14:36:43 [2@ADM-SIS-PRT-001]
+0 seconds for "Use core agent"
+2025-10-30 14:36:43 [2@ADM-SIS-PRT-001]
+0 seconds for "Use core SNMP credentials"
+2025-10-30 14:36:43 [2@ADM-SIS-PRT-001]
+0 seconds for "Use core network ports"
+2025-10-30 14:36:43 [2@ADM-SIS-PRT-001]
+0 seconds for "Use core computers"
+2025-10-30 14:36:43 [2@ADM-SIS-PRT-001]
+0 seconds for "Use core network equipments"
+2025-10-30 14:36:43 [2@ADM-SIS-PRT-001]
+0 seconds for "Use core printers"
+2025-10-30 14:36:43 [2@ADM-SIS-PRT-001]
+0 seconds for "Use core printer logs"
+2025-10-30 14:36:43 [2@ADM-SIS-PRT-001]
+0 seconds for "Use core networkports logs"
+2025-10-30 14:36:43 [2@ADM-SIS-PRT-001]
+0 seconds for "Use core network ports types"
+2025-10-30 14:36:43 [2@ADM-SIS-PRT-001]
+0 seconds for "Use core unmanaged equipments"
+2025-10-30 14:36:43 [2@ADM-SIS-PRT-001]
+0 seconds for "Drop ignored equipments"
+2025-10-30 14:36:43 [2@ADM-SIS-PRT-001]
+0 seconds for "Use core rules"
+2025-10-30 14:36:43 [2@ADM-SIS-PRT-001]
+0 seconds for "Use core remote management"
+2025-10-30 14:36:43 [2@ADM-SIS-PRT-001]
+0 seconds for "Use core fields locks"
+2025-10-30 14:36:43 [2@ADM-SIS-PRT-001]
+0 seconds for "Drop dblock tables"
+2025-10-30 14:36:43 [2@ADM-SIS-PRT-001]
+0 seconds for "Use core entities"
+2025-10-30 14:36:43 [2@ADM-SIS-PRT-001]
+0 seconds for "Drop network ports and printers logs tables"
+2025-10-30 14:36:43 [2@ADM-SIS-PRT-001]
+0 seconds for "Drop inventory mapping table"
+2025-10-30 14:36:44 [2@ADM-SIS-PRT-001]
+1 segundos for "Drop blacklists tables"

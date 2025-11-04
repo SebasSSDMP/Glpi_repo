@@ -1,0 +1,45 @@
+{% import "components/form/fields_macros.html.twig" as fields %}
+
+
+{% extends "generic_show_form.html.twig" %}
+
+{% block more_fields %}
+
+    {% if item.isField('owner') %}
+        {{ fields.dropdownField(
+            'User',
+            'owner',
+            item.fields['owner'],
+            __('Owner', 'webapplications'),
+            field_options|merge({
+                'right': 'all',
+            })
+        )}}
+    {% endif %}
+
+    {% if item.isField('security_contact') %}
+        {{ fields.dropdownField(
+            'User',
+            'security_contact',
+            item.fields['security_contact'],
+            __('Security Contact', 'webapplications'),
+            field_options|merge({
+                'right': 'all',
+            })
+        ) }}
+    {% endif %}
+
+
+    {% if item.isField('relation_nature') %}
+        {{ fields.autoNameField(
+            'relation_nature',
+            item,
+            __('Relation nature', 'webapplications'),
+            withtemplate
+        ) }}
+    {% endif %}
+
+    <input type="hidden" name="appliances_id" value="{{ params['appliances_id'] }}">
+
+{% endblock %}
+

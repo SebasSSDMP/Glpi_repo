@@ -1,0 +1,78 @@
+2025-10-30 13:38:59 [@ADM-SIS-PRT-001]
+[login] 3: glpi  inicio de sesión desde IP ::1
+2025-10-30 13:39:09 [@ADM-SIS-PRT-001]
+[login] 3: Fallo en el acceso de glpi desde la IP ::1
+2025-10-30 13:39:16 [@ADM-SIS-PRT-001]
+[login] 3: glpi  inicio de sesión desde IP ::1
+2025-10-30 13:45:54 [@ADM-SIS-PRT-001]
+[login] 3: glpi  inicio de sesión desde IP ::1
+2025-10-30 14:36:33 [2@ADM-SIS-PRT-001]
+[setup] [Plugin 35] 3: Plugin GLPI Inventory has been installed by glpi (2).
+2025-10-30 14:36:44 [2@ADM-SIS-PRT-001]
+[setup] [Plugin 36] 3: Plugin GLPI Inventory has been installed by glpi (2).
+2025-10-30 14:36:57 [2@ADM-SIS-PRT-001]
+[setup] [Plugin 37] 3: Plugin GLPI Inventory has been activated by glpi (2).
+2025-10-30 15:29:25 [2@ADM-SIS-PRT-001]
+[setup] [Plugin 38] 3: Plugin Form Creator has been installed by glpi (2).
+2025-10-30 15:29:29 [2@ADM-SIS-PRT-001]
+[setup] [Plugin 39] 3: Plugin Form Creator has been activated by glpi (2).
+2025-10-30 17:14:08 [@ADM-SIS-PRT-001]
+[login] 3: Fallo en el acceso de  desde la IP ::1
+2025-11-04 14:21:15 [@ADM-SIS-PRT-001]
+[login] 3: glpi  inicio de sesión desde IP ::1
+2025-11-04 14:45:59 [2@ADM-SIS-PRT-001]
+[setup] [Plugin 44] 3: Plugin Data injection has been installed by glpi (2).
+2025-11-04 14:46:25 [2@ADM-SIS-PRT-001]
+[setup] [Plugin 45] 3: Plugin Data injection has been activated by glpi (2).
+2025-11-04 14:46:55 [2@ADM-SIS-PRT-001]
+[setup] [Plugin 46] 3: Plugin ActualTime has been installed by glpi (2).
+2025-11-04 14:47:10 [2@ADM-SIS-PRT-001]
+[setup] [Plugin 47] 3: Plugin Entities portal has been installed by glpi (2).
+2025-11-04 14:47:20 [2@ADM-SIS-PRT-001]
+[setup] [Plugin 48] 3: Plugin Entities portal has been activated by glpi (2).
+2025-11-04 14:50:31 [2@ADM-SIS-PRT-001]
+[setup] [Plugin 49] 3: Plugin Timeline of tickets has been installed by glpi (2).
+2025-11-04 14:50:46 [2@ADM-SIS-PRT-001]
+[setup] [Plugin 50] 3: Plugin Timeline of tickets has been activated by glpi (2).
+2025-11-04 14:51:15 [2@ADM-SIS-PRT-001]
+[setup] [Plugin 51] 3: Plugin Escalation has been installed by glpi (2).
+2025-11-04 14:51:21 [2@ADM-SIS-PRT-001]
+[setup] [Plugin 52] 3: Plugin Escalation has been activated by glpi (2).
+2025-11-04 14:51:34 [2@ADM-SIS-PRT-001]
+[setup] [Plugin 53] 3: Plugin Behaviours has been installed by glpi (2).
+2025-11-04 14:51:36 [2@ADM-SIS-PRT-001]
+[setup] [Plugin 54] 3: Plugin Behaviours has been activated by glpi (2).
+2025-11-04 14:52:40 [2@ADM-SIS-PRT-001]
+[setup] [Plugin 55] 3: Plugin Print to pdf has been installed by glpi (2).
+2025-11-04 14:53:14 [2@ADM-SIS-PRT-001]
+[setup] [Plugin 56] 3: Plugin Appliance dashboard has been installed by glpi (2).
+2025-11-04 14:53:17 [2@ADM-SIS-PRT-001]
+[setup] [Plugin 57] 3: Plugin Appliance dashboard has been activated by glpi (2).
+2025-11-04 14:53:39 [2@ADM-SIS-PRT-001]
+[setup] [Plugin 58] 3: Plugin IP Addressing has been installed by glpi (2).
+2025-11-04 14:53:44 [2@ADM-SIS-PRT-001]
+[setup] [Plugin 59] 3: Plugin IP Addressing has been activated by glpi (2).
+2025-11-04 14:54:31 [2@ADM-SIS-PRT-001]
+[setup] [Plugin 60] 3: Plugin Objects management has been installed by glpi (2).
+2025-11-04 14:54:36 [2@ADM-SIS-PRT-001]
+[setup] [Plugin 61] 3: Plugin Objects management has been activated by glpi (2).
+2025-11-04 14:54:40 [2@ADM-SIS-PRT-001]
+[setup] [Plugin 62] 3: Plugin Diagrams has been installed by glpi (2).
+2025-11-04 14:54:41 [2@ADM-SIS-PRT-001]
+[setup] [Plugin 63] 3: Plugin Diagrams has been activated by glpi (2).
+2025-11-04 14:56:29 [2@ADM-SIS-PRT-001]
+[setup] [Plugin 64] 3: Plugin Additional fields has been installed by glpi (2).
+2025-11-04 14:56:32 [2@ADM-SIS-PRT-001]
+[setup] [Plugin 65] 3: Plugin Additional fields has been activated by glpi (2).
+2025-11-04 14:57:56 [2@ADM-SIS-PRT-001]
+[setup] [Plugin 66] 3: Plugin ActualTime has been activated by glpi (2).
+2025-11-04 15:09:06 [2@ADM-SIS-PRT-001]
+[setup] [Plugin 67] 3: Plugin Objects management has been deactivated by glpi (2).
+2025-11-04 15:09:21 [2@ADM-SIS-PRT-001]
+[setup] [Plugin 68] 3: Plugin Data injection has been deactivated by glpi (2).
+2025-11-04 15:10:10 [2@ADM-SIS-PRT-001]
+[setup] [Plugin 69] 3: Plugin Additional fields has been deactivated by glpi (2).
+2025-11-04 15:10:14 [2@ADM-SIS-PRT-001]
+[setup] [Plugin 70] 3: Plugin Appliance dashboard has been deactivated by glpi (2).
+2025-11-04 15:21:48 [2@ADM-SIS-PRT-001]
+[setup] [Plugin 71] 3: Plugin Diagrams has been deactivated by glpi (2).
